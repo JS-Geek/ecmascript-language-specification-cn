@@ -1,0 +1,17 @@
+{
+    "title": "ECMAScript 2015 Language Specification中文版",
+    "structure": {
+        "readme": "README.md"
+    },
+    "variables": {
+        "authors": [
+            {
+                "name": "Phoenix Xu",
+                "email": "xusiyuan841028@gmail.com"
+            },
+            {
+                "name": "nick"
+            }
+        ]
+    }
+}

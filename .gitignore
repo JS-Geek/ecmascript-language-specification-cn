@@ -18,3 +18,6 @@ _book
 
 # Vim
 *.swp
+
+# OSX
+.DS_Store

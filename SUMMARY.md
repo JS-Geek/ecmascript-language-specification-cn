@@ -5,7 +5,7 @@
 * [Normative references](manuscript/3_normative_references.md)
 * [Overview](manuscript/4_overview/README.md)
   * [Web Scripting](manuscript/4_overview/4_1_web_scripting.md)
-  * [ECMAScripting Overview](manuscript/4_overview/4_2_ecmascript_overview)
+  * [ECMAScript Overview](manuscript/4_overview/4_2_ecmascript_overview)
   * [Terms and definitions](manuscript/4_overview/4_3_terms_and_definitions)
   * [Organization of This Specification](manuscript/4_overview/4_4_organization_of_this_specification)
 * [Notational Conventions](manuscript/5_notational_conventions/README.md)

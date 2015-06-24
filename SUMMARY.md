@@ -12,7 +12,7 @@
   * [Syntactic and Lexical Grammars]()
   * [Algorithm Conventions]()
   * [Static Semantic Rules]()
-* [ECMAScript Data Types and Values](manuscript/5_ecmascript_data_types_and_values/README.md)
+* [ECMAScript Data Types and Values](manuscript/6_ecmascript_data_types_and_values/README.md)
   * [ECMAScript Language Types]()
   * [ECMAScript Specification Types]()
 * [Abstract Operations]()

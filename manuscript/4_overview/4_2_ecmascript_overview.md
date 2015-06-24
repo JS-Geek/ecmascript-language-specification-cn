@@ -2,8 +2,7 @@
 
 接下来是ECMAScript非正式的概述，并没有阐述语言的所有组成。该概述并非标准的组成部分。  
 
-ECMAScript是基于对象的：基本的语言和宿主功能由对象提供，而一个ECMAScript程序是由一组相互通信的对象组成。在ECMAScript中，一个对象是0或多个**属性（properties）**的集合，这些属性具有一些**特性（attributes）**，这些特性决定每个属性如何被使用。例如，当一个属性的Writable特性为false食，ECMAScript代码任何试图设置该属性为一个不同的值的操作都将失败。属性可以是存储其他对象，**简单类型值（primitive values）**和**函数（functions）**的容器。简单类型值是以下内建类型之一的成员：**Undefined**，**Null**，**Boolean**，**Number**，**String**和**Symbol**。
-对象值则是内建类型**Object**的成员；而函数则是一个可以调用的对象。当一个函数作为对象的属性时，被称为**方法（Method）**。  
+ECMAScript是基于对象的：基本的语言和宿主功能由对象提供，而一个ECMAScript程序是由一组相互通信的对象组成。在ECMAScript中，一个对象是0或多个**属性（properties）**的集合，这些属性具有一些**特性（attributes）**，这些特性决定每个属性如何被使用。例如，当一个属性的Writable特性为false食，ECMAScript代码任何试图设置该属性为一个不同的值的操作都将失败。属性可以是存储其他对象，**简单类型值（primitive values）**和**函数（functions）**的容器。简单类型值是以下内建类型之一的成员：**Undefined**，**Null**，**Boolean**，**Number**，**String**和**Symbol**。对象则是内建类型**Object**的成员；而函数则是一个可以调用的对象。当一个函数作为对象的属性时，被称为**方法（Method）**。  
 
 ECMAScript定义了一系列的内建对象。这些内建对象包括全局（global）对象；还有构成语言运行语义基础的对象，包括**Object**，**Function**，**Boolean**，**Symbol**和各种**Error**对象；还有用来表达和操作数字值的对象，包括**Math**，**Number**，和**Date**；还有文本处理的对象**String**和**RegExp**；用来存储索引集合的对象**Array**，和用来存储九种不同的数字类型的限定类型数组（Typed Array）;基于键（key）的集合有**Map**和**Set**对象；支持结构化数据的对象有**JSON**，**ArrayBuffer**，和**DataView**；支持控制抽象的对象有generator函数和**Promise**对象；以及两种反射对象**Proxy**和**Reflect**。  
 
@@ -29,7 +28,7 @@ ECMAScript语法有意地模仿Java语法。而它的语法使其成为一门易
 
 CFi是一个构造器（也是一个对象）。五个对象通过**new**表达式创建：cf1，cf2，cf3，cf4，和cf5。这五个对象都包含名称为q1和q2的属性。虚线表示隐式的prototype关系；例如，cf3的prototype是CF<sub>p</sub>。构造器CF自身有两个属性，名称为P1和P2，这两个属性对CF<sub>p</sub>，cf1，cf2，cf3，cf4或cf5都不可见。CF<sub>p</sub>的属性CFP1被cf1，cf2，cf3，cf4和cf5共享（但CF不会共享），而且所有在CP<sub>p</sub>的隐式原型链上找到的名称不为q1，q2或CFP1属性也会被共享。注意，CF和CF<sub>p</sub>之间没有隐式原型链。  
 
-和绝大多数基于class的对象语言不通，属性可以通过赋值被动态地加到对象上。这意味，构造器不需要命名或赋值给被构造出来对象的所有或某些属性。在以上示意图中，可以通过赋值给CF<sub>p</sub>的属性为cf1，cf2，cf3，cf4和cf5一个共享属性。  
+和绝大多数基于class的对象语言不同，属性可以通过赋值被动态地加到对象上。这意味，构造器不需要命名或赋值给被构造出来对象的所有或某些属性。在以上示意图中，可以通过赋值给CF<sub>p</sub>的属性为cf1，cf2，cf3，cf4和cf5一个共享属性。  
 
 虽然ECMAScript对象本身不是基于class的，但很容易基于一个通用的构造函数，原型对象和方法模式来定义一个类class的抽象。ECMAScript内建的对象本身遵从一个类class的模式。从ECMAScript 2015开始，ECMAScript语言包含了class定义语法，允许程序员遵从和内建对象一样的类class抽象模式来简洁地定义对象。
 

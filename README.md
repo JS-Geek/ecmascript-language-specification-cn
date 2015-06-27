@@ -1,6 +1,9 @@
 # ECMASc­ript 2015 Langu­age Sp­ecific­ation 中文版
 
-本文档基于**April 14, 2015 Rev 38 Final Draft**翻译。请参考：
+本文档基于**[Standard ECMA-262 ECMAScript 2015 Language Specification](http://www.ecma-international.org/publications/standards/Ecma-262.htm)**翻译。
 
-- [Draft Specification for ES.next (Ecma-262 Edition 6)](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
-- [April 14, 2015 Rev 38 Final Draft](http://wiki.ecmascript.org/lib/exe/fetch.php?id=harmony%3Aspecification_drafts&cache=cache&media=harmony:ecma-262_6th_edition_final_draft_-04-14-15-markup.pdf)
+请参考：
+
+- **[ECMAScript 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)**
+- **[最新在线版本](https://www.gitbook.com/book/js-geek/ecmascript-2015-language-specification-cn)**
+- **[Github repository](https://github.com/JS-Geek/ecmascript-2015-language-specification-cn)**

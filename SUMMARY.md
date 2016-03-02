@@ -9,7 +9,7 @@
   * [Terms and definitions](manuscript/4_overview/4_3_terms_and_definitions.md)
   * [Organization of This Specification](manuscript/4_overview/4_4_organization_of_this_specification.md)
 * [Notational Conventions](manuscript/5_notational_conventions/README.md)
-  * [Syntactic and Lexical Grammars]()
+  * [Syntactic and Lexical Grammars](manuscript/5_notational_conventions/5_1_syntactic_and_lexical_grammars.md)
   * [Algorithm Conventions]()
   * [Static Semantic Rules]()
 * [ECMAScript Data Types and Values](manuscript/6_ecmascript_data_types_and_values/README.md)

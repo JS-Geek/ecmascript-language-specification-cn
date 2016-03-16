@@ -1,4 +1,4 @@
-# ECMASc­ript 2015 Langu­age Sp­ecific­ation 中文版
+# ECMAScript 2015 Language Specification 中文版
 
 本文档基于**[Standard ECMA-262 ECMAScript 2015 Language Specification](http://www.ecma-international.org/publications/standards/Ecma-262.htm)**翻译。
 

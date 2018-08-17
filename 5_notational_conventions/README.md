@@ -1,4 +1,0 @@
-# Notational Conventions
-
-
-

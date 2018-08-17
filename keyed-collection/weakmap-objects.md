@@ -1,0 +1,2 @@
+# WeakMap Objects
+

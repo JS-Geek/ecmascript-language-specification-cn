@@ -1,4 +1,4 @@
-# 简介
+# Introduction
 
 本文档基于[ECMAScript® 2018 Language Specification](https://www.ecma-international.org/ecma-262/9.0/index.html)\(ECMA-262, 9th edition, June 2018\)翻译。
 

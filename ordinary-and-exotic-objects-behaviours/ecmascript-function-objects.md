@@ -1,0 +1,2 @@
+# ECMAScript Function Objects
+

@@ -1,2 +1,0 @@
-# TypedArray Objects
-

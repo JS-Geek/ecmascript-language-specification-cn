@@ -1,2 +1,0 @@
-# Binary Logical Operators
-

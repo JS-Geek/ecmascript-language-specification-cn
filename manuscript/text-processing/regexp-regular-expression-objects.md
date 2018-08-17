@@ -1,2 +1,0 @@
-# RegExp \(Regular Expression\) Objects
-

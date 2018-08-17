@@ -134,6 +134,5 @@
 * [Annex A \(informative\) Grammar Summary](manuscripts/annex-a-informative-grammar-summary.md)
 * [Annex B \(normative\) Additional ECMAScript Features for Web Browsers](manuscripts/annex-b-normative-additional-ecmascript-features-for-web-browsers.md)
 * [Annex C \(informative\) The Strict Mode of ECMAScript](manuscripts/annex-c-informative-the-strict-mode-of-ecmascript.md)
-* [\[Annex D \(informative\) Corrections and Clarifications in ECMAScript 2015 with Possible](manuscripts/annex-d-informative-corrections-and-clarifications-in-ecmascript-2015-with-possible.md)
+* [Annex D \(informative\) Corrections and Clarifications in ECMAScript 2015 with Possible](manuscripts/annex-d-informative-corrections-and-clarifications-in-ecmascript-2015-with-possible.md)
 * [Annex E \(informative\) Additions and Changes That Introduce Incompatibilities with Prior Editions](manuscripts/annex-e-informative-additions-and-changes-that-introduce-incompatibilities-with-prior-editions.md)
-

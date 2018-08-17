@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [Introduction](introduction.md)
 * [1 Scope](1-scope.md)
 

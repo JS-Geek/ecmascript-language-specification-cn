@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [Scope](1_scope.md)
 * [Conformance](2_conformance.md)
 * [Normative references](3_normative_references.md)

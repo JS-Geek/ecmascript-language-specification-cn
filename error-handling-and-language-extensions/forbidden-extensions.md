@@ -1,2 +1,0 @@
-# Forbidden Extensions
-

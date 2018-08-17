@@ -1,2 +1,0 @@
-# Operations on Iterator Objects
-

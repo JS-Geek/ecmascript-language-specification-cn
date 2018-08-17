@@ -1,2 +1,0 @@
-# Syntactic and Lexical Grammars
-

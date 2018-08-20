@@ -1,2 +1,0 @@
-# Static Semantic Rules
-
